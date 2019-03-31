@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main(void){
         char  notas[5];
-        int soma;
+        int soma=0;
         int cont =0;
         int i, j;
         for (i=0; i<5; i++){
