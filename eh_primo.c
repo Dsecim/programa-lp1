@@ -9,7 +9,6 @@ int main (void){
      if (num1%i==0){
         printf("nao eh primo\n");
         return 0;
-        break;
      }
   }
   printf("eh primo\n");
